@@ -1995,7 +1995,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2d4052;
+  background: #9e85b5;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2832,16 +2832,6 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
-}
-body {
-  background: url("/images/bg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-}
-.site-meta {
-  background: #0684bd;
 }
 .post {
   margin-top: 0px;
